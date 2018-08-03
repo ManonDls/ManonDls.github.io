@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/BHAT2.jpg" caption="Sept 2016" width="300px" align="right" %}
+{% include image.html url="images/BHAT2.jpg" caption="Sept 2016" width="280px" align="right" %}
 
 I work at [Oculus] on VR and related problems.
 I was a postdoc first at [MIT] with [Fredo Durand] and [Sylvain Paris],
