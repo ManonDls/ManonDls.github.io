@@ -1,6 +1,5 @@
 title: Harsha S. Bhat
 description: Harsha S. Bhat's webpage
-sourcecode: "https://github.com/gchauras/www"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
