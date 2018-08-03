@@ -11,7 +11,7 @@ baseurl: ""                  # the subpath of your site, e.g. /blog
 
 author:
     name: Harsha S. Bhat
-    scholar: pBaL_DgAAAAJ
+    scholar: ZHskR34AAAAJ
 
 # Build settings
 markdown: kramdown
