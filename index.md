@@ -6,13 +6,7 @@ permalink: /
 
 {% include image.html url="images/BHAT2.jpg" caption="" height="380px" align="right" %}
 
-I work at [Oculus] on VR and related problems.
-I was a postdoc first at [MIT] with [Fredo Durand] and [Sylvain Paris],
-and then in the vision and robotics group at [Disney Research Zurich]. I completed
-my PhD under the guidance of [George Drettakis] at [INRIA] in the beautiful French
-Riviera. I obtained my Masters degree in computer science at [ENSIMAG]. In an
-earlier life, I used to be an undergrad at [Indian Institute of Technology Delhi].
-
+I am a CNRS Research Scientist working at the Laboratoire de Géologie [LG] in Ecole Normale Supérieure [ENS]
 Email: [gaurav.chaurasia@oculus.com] (Oculus/Facebook related communication) <br />
 Email: [gchauras@csail.mit.edu] (others)
 
@@ -21,6 +15,9 @@ You can find some professional details about me on [Google Scholar].
 My [academic lineage](files/GauravChaurasia_academic_lineage.pdf)
 includes some Gods (courtesy [Peter Vangorp]).
 
+
+[LG]: www.geologie.ens.fr
+[ENS]: www.ens.fr
 [Disney Research Zurich]: http://www.disneyresearch.com/research-labs/disney-research-zurich/
 [INRIA]: https://team.inria.fr/graphdeco/
 [Indian Institute of Technology Delhi]: http://www.cse.iitd.ac.in
