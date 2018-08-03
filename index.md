@@ -6,7 +6,7 @@ permalink: /
 
 {% include image.html url="images/BHAT2.jpg" caption="" height="380px" align="right" %}
 
-I am a CNRS Research Scientist working at the Laboratoire de Géologie [LG] in Ecole Normale Supérieure [ENS]
+I am a CNRS Research Scientist working at the Laboratoire de Géologie (LG) in Ecole Normale Supérieure [ENS]
 Email: [gaurav.chaurasia@oculus.com] (Oculus/Facebook related communication) <br />
 Email: [gchauras@csail.mit.edu] (others)
 
