@@ -1,5 +1,5 @@
-title: Gaurav Chaurasia
-description: Gaurav Chaurasia's webpage
+title: Harsha S. Bhat
+description: Harsha S. Bhat's webpage
 sourcecode: "https://github.com/gchauras/www"
 
 permalink: blog/:year/:month/:day/:title
@@ -11,13 +11,12 @@ baseurl: ""                  # the subpath of your site, e.g. /blog
 # baseurl: ""
 
 author:
-    name: Gaurav Chaurasia
-    facebook: gchauras
+    name: Harsha S. Bhat
     scholar: pBaL_DgAAAAJ
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 # Settings for analytics helper
 # Set 'provider' to the analytics provider you want to use.
