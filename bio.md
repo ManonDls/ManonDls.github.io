@@ -1,8 +1,15 @@
-Gaurav Chaurasia is a post-doctoral researcher at Disney Research Zurich
-investigating parametric and machine learning methods to extract semantic
-structure in natural and man-made scenes. He completed his doctoral dissertation
-on image-based rendering of urban scenes with Dr. George Drettakis at INRIA
-(France), and worked at MIT (Cambridge MA) as a post-doctoral associate
-with Prof. Fredo Durand on computational photography. His research interests
-include image-based rendering, 3D reconstruction, high performance image
-processing, and applied machine learning for image synthesis.
+---
+layout: page
+title: 
+permalink: /bio/
+---
+
+Harsha S. Bhat, a CNRS researcher at the Ecole Normale Superieure, Laboratory of Geology. 
+
+He is a solid mechanician and seismologist by training. After completing his Ph.D. at Harvard University, under the guidance of Prof James R. Rice and Dr. Renata Dmowska, he completed postdoctoral studies at Caltech and the University of Southern California. 
+
+He joined the CNRS in 2012 as Senior Research Scientist and works at the interface between tectonics, seismology, solid mechanics, rock mechanics. 
+
+He has been recently awarded the prestigious Michel Gouilloud Schlumberger Award 2018 of the Academy of Sciences, awarded to researchers under 45 for a significant discovery made before the age of 35 in the field of sciences of the universe (geology or geophysics). Harsha is rewarded for his original work on the mechanics of earthquakes.
+
+Harsha is Indian by nationality.

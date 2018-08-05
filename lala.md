@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /lala/
 title: Publications
 ---
 
