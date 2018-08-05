@@ -3,11 +3,11 @@
 ---
 @charset "utf-8";
 
-$font-weight-normal: 200;
+$font-weight-normal: 150;
 $font-weight-bold:   600;
 
 $base-font-family: "Source Sans Pro", "Lato", -apple-system, "San Francisco", "Helvetica Neue", Helvetica, Roboto, "Segoe UI", "Segoe WP", Arial, Ubuntu, sans-serif;
-$base-font-size:   13pt;
+$base-font-size:   14pt;
 $base-line-height: 1.5;
 
 $heading-font-family: $base-font-family;
@@ -26,16 +26,18 @@ $grey-vdark: #222;
 $blue:       #0091ed;
 $orange:     #ca6c18;
 $red:        #b6321c;
+$harvard:    #c90016;
+$white:		#FFFFFF;
 
-$background:        $grey-vlight;
+$background:        $white;
 $dark-background:   darken($background, 5%);
 $text-color:        $grey-vdark;
 $text-light-color:  $grey;
-$url-color:         $red;
-$url-hover-color:   $orange;
-$header-text-color: $text-light-color;
-$header-hover-color:$text-color;
-$header-hover-url:  $url-color;
+$url-color:         $harvard;
+$url-hover-color:   $grey;
+$header-text-color: $harvard;
+$header-hover-color:$grey;
+$header-hover-url:  $harvard;
 $line-color:        $grey-light;
 
 // Width of the content area
