@@ -1,14 +1,14 @@
 - title: "Research"
   href: "/research/"
 
+- title: "Publications"
+  href: "/publications/"
+
 - title: "CV"
-  href: "/cv/"
+  href: "https://www.dropbox.com/s/ki67xswqsql0uky/CurriculumVitae.pdf?dl=1/"
 
-- title: "Misc"
-  href: "/misc/"
-
-- title: "Blog"
-  href: "/blog/"
+- title: "News"
+  href: "/news/"
 
   # subcategories:
   #  - subtitle: "Item 1"
