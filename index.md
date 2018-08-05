@@ -15,7 +15,11 @@ You can reach me at
 * *bhat@geologie.ens.fr*
 * [**Laboratoire de Géologie, 24 Rue Lhomond, 75005 Paris**] [directions]
 
+<<<<<<< HEAD
 You can find out more about me via
+=======
+You can find out more about me via 
+>>>>>>> 69895b59e3ec0808ae5d48faa025c499e6940c1f
 
 * **[CV]** 
 * **[Google Scholar]**
