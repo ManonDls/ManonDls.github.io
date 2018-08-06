@@ -4,8 +4,9 @@ permalink: /group/
 title: null
 published: true
 ---
+Jump to [CURRENT MEMBERS](#current-members), [PAST MEMBERS](#past-members)
 
-Coming Soon ...
+---
 
 ## CURRENT MEMBERS
 * Kurama Okubo
@@ -13,5 +14,3 @@ Coming Soon ...
 * Lucile Bruhat
 
 ## PAST MEMBERS
-
-
