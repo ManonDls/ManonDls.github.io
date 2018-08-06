@@ -13,11 +13,11 @@ Jump to [Upcoming Meetings](#upcoming-meetings), [Past Meetings](#past-meetings)
 * **Nov 24 - Nov 28, 2018** 
 [KAUST Workshop on Seismic Hazard Assessment] [12], Saudi Arabia.
 * **Oct 1 - Oct 11, 2018** 
-[Workshop on Modeling Earthquake Source Processes] [11] at [Caltech] [10], Pasadena, USA.
+[Workshop on Modeling Earthquake Source Processes] [11] at [Caltech] [10].
 * **Aug 19 - 24, 2018** 
 [Gordon Research Conference on Rock Deformation] [1] in Andover, NH USA.
 * **Aug 06 - 17, 2018** 
-[International Summer School on ''MEchanics and Physics of STrechable Objects (MEPHiSTO)''] [2] in Cargese, Corsica.
+[International Summer School, MEPHiSTO''] [2] in Cargese, Corsica.
 	
 ## PAST MEETINGS 
 
@@ -38,7 +38,7 @@ Seminar at [ISTERRE] [7], Grenoble.
 
 ## OTHER NEWS
 * **Nov 20, 2018** 
-Will recieve [Prix Michel Gouilloud Schlumberger] [13] at the [Academié des Sciences] [14] in Paris.
+[Prix Michel Gouilloud Schlumberger] [13] at the [Academié des Sciences] [14] in Paris.
 * **Nov 9, 2018** 	
 Kurama Okubo will defend his PhD thesis at [IPGP] [15].
  
