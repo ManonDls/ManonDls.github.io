@@ -13,15 +13,18 @@ Jump to [Publications](#peer-reviewed-publications), [Thesis](#doctoral-thesis),
 {% assign thumbnail="right" %}
 
 {% for pub in site.data.cv.publications %}
-<!-- {% if pub.image %}
-{% include image.html url=pub.image caption="" height="80px" align=thumbnail %}
-{% endif %} -->
+{% if pub.type == "article" %}
 {{pub.author}}<br />
 **{{pub.title}}**<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
 {% endif %} *{{pub.year}}*  [[web]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})] {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
-
+{% elsif pub.type == "inproceedings" or pub.type == "incollections"%}
+{{pub.author}}<br />
+**{{pub.title}}**<br />
+in *{{pub.booktitle}}*, eds. *{{pub.editor}}*
+*{{pub.year}}*  [[web]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})] {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
+{% endif %}
 {% endfor %}
 
 -----
