@@ -24,7 +24,7 @@ Jump to [Upcoming Meetings](#upcoming-meetings), [Past Meetings](#past-meetings)
 * **Jul 01 - 07, 2018**
 [The Enrico Fermi School: “Mechanics of earthquake faulting’’] [9], Varenna, Italy.		
 * **Jun 25 - 26, 2018** 
-50th Anniversery of Plate Tectonics meeting, [Collége de France] [8], Paris.		
+[50th Anniversery of Plate Tectonics meeting, Collége de France] [8], Paris.		
 * **Jun 18 - 20, 2018** 
 Seminar at [Géoazur] [6], Nice.		
 * **Jun 10 - 17, 2018** 
