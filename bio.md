@@ -4,10 +4,25 @@ title:
 permalink: /bio/
 ---
 
-Harsha S. Bhat, a CNRS researcher at the Ecole Normale Superieure, Laboratory of Geology. 
+I am a [CNRS] researcher at the [Laboratoire de Géologie] [LG] in [Ecole Normale Supérieure] [ENS]. 
 
-He is a solid mechanician and seismologist by training. After completing his Ph.D. at Harvard University, under the guidance of Prof James R. Rice and Dr. Renata Dmowska, he completed postdoctoral studies at Caltech and the University of Southern California. 
+I am a solid mechanician and earthquake source physicist by training. After completing my Ph.D at [Harvard University] [1], under the guidance of [Prof. James R. Rice] [2] and [Dr. Renata Dmowska] [3], I did my postdoctoral studies jointly between at [Caltech] [4] and the [University of Southern California] [5]. Here I worked with [Prof. Ares J. Rosakis] [7] and [Prof. Charles G. Sammis] [8]. 
 
-He joined the CNRS in Jan. 2012 as Senior Research Scientist, working at the Institut de Physique du Globe de Paris (IPGP) until Apr. 2016. He works at the interface between tectonics, seismology, solid mechanics, rock mechanics. 
+I joined [CNRS] in Jan. 2012 as a Senior Research Scientist, and began working at the [Institut de Physique du Globe de Paris (IPGP)] [6] until Apr. 2016. I work mainly at the interface between tectonics, seismology, solid mechanics, rock mechanics. 
 
-He has been recently awarded the prestigious Michel Gouilloud Schlumberger Award 2018 of the Academy of Sciences, awarded to researchers under 45 for a significant discovery made before the age of 35 in the field of sciences of the universe (geology or geophysics). Harsha is rewarded for his original work on the mechanics of earthquakes.
+I have been recently awarded the [Prix Michel Gouilloud Schlumberger] [9] from the [Academié des Sciences] [10]. 
+
+[LG]: http://www.geologie.ens.fr
+[ENS]: http://www.ens.fr
+[CNRS]: http://www.cnrs.fr/index.html
+[1]: http://www.harvard.edu
+[2]: http://www.seas.harvard.edu/rice
+[3]: http://www.seas.harvard.edu/dmowska
+[4]: http://www.caltech.edu
+[5]: http://www.usc.edu
+[6]: http://www.ipgp.fr
+[7]: http://rosakis.caltech.edu
+[8]: http://www.usc.edu
+[9]: http://www.academie-sciences.fr/fr/Prix-en-mathematique-physique-mecanique-informatique-et-sciences-de-la-Terre-et-de-l-univers/prix-michel-gouilloud-schlumberger.html
+[10]: http://www.academie-sciences.fr/fr/
+
