@@ -1,7 +1,8 @@
 ---
 layout: page
-title: 
+title: null
 permalink: /bio/
+published: true
 ---
 
 I am a [CNRS] researcher at the [Laboratoire de Géologie] [LG] in [Ecole Normale Supérieure] [ENS]. 
@@ -22,7 +23,6 @@ I have been recently awarded the [Prix Michel Gouilloud Schlumberger] [9] from t
 [5]: http://www.usc.edu
 [6]: http://www.ipgp.fr
 [7]: http://rosakis.caltech.edu
-[8]: http://www.usc.edu
+[8]: https://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1003669
 [9]: http://www.academie-sciences.fr/fr/Prix-en-mathematique-physique-mecanique-informatique-et-sciences-de-la-Terre-et-de-l-univers/prix-michel-gouilloud-schlumberger.html
 [10]: http://www.academie-sciences.fr/fr/
-

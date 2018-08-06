@@ -1,7 +1,16 @@
 ---
 layout: page
 permalink: /group/
-title: 
+title: null
+published: true
+---
+Jump to [Current Members](#current-members), [Past Members](#past-members)
+
 ---
 
-Coming Soon ...
+## CURRENT MEMBERS
+* Kurama Okubo
+* Marion Thomas
+* Lucile Bruhat
+
+## PAST MEMBERS

@@ -27,14 +27,14 @@
     .site-nav .menu li {
         display: block;
         margin: 0;
-        color: $header-hover-color;
+        color: $header-text-color;
     }
 
     .site-nav ul.menu a {
-        color: $header-hover-color;
+        color: $header-text-color;
     }
     .site-nav ul.menu a:hover {
-        color: $header-hover-url;
+        color: $header-hover-color;
     }
 
     .site-nav a,

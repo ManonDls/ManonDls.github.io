@@ -22,8 +22,8 @@ $grey-vlight:#fefefe;
 $grey-light: #ccc;
 $grey:       #666;
 $grey-dark:  #444;
-$grey-vdark: #000;
-$blue:       #0049D4;
+$grey-vdark: #111;
+$blue:       #0091ed;
 $orange:     #ca6c18;
 $red:        #b6321c;
 $harvard:    #c90016;
@@ -31,11 +31,12 @@ $white:		#FFFFFF;
 
 $background:        $white;
 $dark-background:   darken($background, 5%);
-$text-color:        $grey-vdark;
+$text-color:        $grey-dark;
 $text-light-color:  $grey;
+<<<<<<< HEAD
 $url-color:         $blue;
 $url-hover-color:   $harvard;
-$header-text-color: $grey-dark;
+$header-text-color: $grey-vdark;
 $header-hover-color:$harvard;
 $header-hover-url:  $harvard;
 $line-color:        $grey-light;
