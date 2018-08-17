@@ -22,7 +22,8 @@
 }
 
 .post {
-    margin-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit * 0.8;
+    margin-top:    $spacing-unit * 0.8;
     @extend %clearfix;
 }
 
