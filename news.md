@@ -14,13 +14,13 @@ Jump to [Upcoming Meetings](#upcoming-meetings), [Past Meetings](#past-meetings)
 [KAUST Workshop on Seismic Hazard Assessment] [12], Saudi Arabia.
 * **Oct 1 - Oct 11, 2018** 
 [Workshop on Modeling Earthquake Source Processes] [11] at [Caltech] [10].
+	
+## PAST MEETINGS 
+
 * **Aug 19 - 24, 2018** 
 [Gordon Research Conference on Rock Deformation] [1] in Andover, NH USA.
 * **Aug 06 - 17, 2018** 
 [International Summer School, MEPHiSTO''] [2] in Cargese, Corsica.
-	
-## PAST MEETINGS 
-
 * **Jul 01 - 07, 2018**
 [The Enrico Fermi School: “Mechanics of earthquake faulting’’] [9], Varenna, Italy.		
 * **Jun 25 - 26, 2018** 
