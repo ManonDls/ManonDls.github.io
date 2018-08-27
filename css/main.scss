@@ -6,16 +6,16 @@
 $font-weight-normal: 350;
 $font-weight-bold:   600;
 
-$base-font-family: "Source Code Pro", "Lato", -apple-system, "San Francisco", "Helvetica Neue", Helvetica, Roboto, "Segoe UI", "Segoe WP", Arial, Ubuntu, sans-serif;
-$base-font-size:   12pt;
-$base-line-height: 1.5;
+$base-font-family: "Source Code Pro Regular", "Lato", -apple-system, "San Francisco", "Helvetica Neue", Helvetica, Roboto, "Segoe UI", "Segoe WP", Arial, Ubuntu, sans-serif;
+$base-font-size:   13pt;
+$base-line-height: 1.25;
 
 $heading-font-family: $base-font-family;
 $heading-font-size:   15pt;
 $heading-line-height: 1.5;
 
 $small-font-size:  0.875em;
-$vsmall-font-size: 0.66em;
+$vsmall-font-size: 0.36em;
 $spacing-unit:     1.5em;
 
 $grey-vlight:#fefefe;
@@ -28,10 +28,11 @@ $orange:     #ca6c18;
 $red:        #b6321c;
 $harvard:    #c90016;
 $white:		#FFFFFF;
+$black:     #000;
 
 $background:        $white;
 $dark-background:   darken($background, 5%);
-$text-color:        $grey-dark;
+$text-color:        $black;
 $text-light-color:  $grey;
 $url-color:         $blue;
 $url-hover-color:   $harvard;

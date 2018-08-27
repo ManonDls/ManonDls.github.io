@@ -20,12 +20,15 @@ Jump to [Publications](#peer-reviewed-publications), [Books](#books)
 
 {% assign year = {{pub.year}} %}
 {% endif %} 
-**{{pub.pubnum}}.**  {% if pub.pdf %}[**{{pub.title}}**]({{pub.pdf | prepend: "/files/" site.url}}){% else %} **{{pub.title}}** {% endif %}
+
+▶ {% if pub.pdf %}[**{{pub.title}}**]({{pub.pdf | prepend: "/files/" site.url}}){% else %} **{{pub.title}}** {% endif %}
  -- {{pub.author}} --
 {% if {{pub.type}} == "article" %} ***{{pub.journal}}***
 {% elsif {{pub.type}} == "inproceeding" or {{pub.type}} == "incollection" %} in ***{{pub.booktitle}}***, eds. *{{pub.editor}}*
 {% elsif {{pub.type}} == "phdthesis" %} Ph. D Thesis, **{{pub.school}}**
 {% endif %} -- ({{pub.year}}) {% if pub.doi %} -- DOI: {{pub.doi}} {% endif %}
+
+
 {% endfor %}
 
 ---
