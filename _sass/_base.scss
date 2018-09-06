@@ -72,6 +72,11 @@ figcaption {
 //  Lists
 ul, ol {
     margin-left: $spacing-unit;
+    list-style: square outside none;
+}
+
+ul ul {
+        list-style-type:  none;
 }
 
 li {
@@ -88,6 +93,7 @@ a {
     text-decoration: none;
     &:hover {
         color: $url-hover-color;
+        text-decoration: ul;
     }
 }
 
