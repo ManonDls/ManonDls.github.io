@@ -1,7 +1,8 @@
 ---
 layout: page
-title: 
+title: null
 permalink: /
+published: true
 ---
 
 {% include image.html url="images/BHAT3.png" caption="" height="230px" align="left" %}
@@ -10,7 +11,11 @@ permalink: /
 
 I am a [CNRS] Research Scientist working at the [Laboratoire de Géologie] [LG] in [Ecole Normale Supérieure] [ENS].
 
+<<<<<<< HEAD
 I work mainly at the interface between Earthquake Physics and Solid Mechanics making occasional excursions into Rock Mechanics, Tectonics and Seismology.
+=======
+I work mainly in the interface between Earthquake Physics and Solid Mechanics making occasional excursions into Rock Mechanics, Tectonics and Seismology
+>>>>>>> 867ed18e357004e8fcfd755339a6f58576c3660b
 
 You can reach me at [Laboratoire de Géologie, 24 Rue Lhomond, 75005 Paris] [directions]
 
@@ -24,5 +29,3 @@ More info: [CV], [Google Scholar], [Short Biography] [BIO], [ORCID]
 [Google Scholar]: http://scholar.google.com/citations?user={{site.author.scholar}}&hl=en&oi=ao
 [CNRS]: http://www.cnrs.fr/index.html
 [ORCID]: https://orcid.org/0000-0003-0361-1854
-
-
