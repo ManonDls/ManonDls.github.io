@@ -11,11 +11,7 @@ published: true
 
 I am a [CNRS] Research Scientist working at the [Laboratoire de Géologie] [LG] in [Ecole Normale Supérieure] [ENS].
 
-<<<<<<< HEAD
 I work mainly at the interface between Earthquake Physics and Solid Mechanics making occasional excursions into Rock Mechanics, Tectonics and Seismology.
-=======
-I work mainly in the interface between Earthquake Physics and Solid Mechanics making occasional excursions into Rock Mechanics, Tectonics and Seismology
->>>>>>> 867ed18e357004e8fcfd755339a6f58576c3660b
 
 You can reach me at [Laboratoire de Géologie, 24 Rue Lhomond, 75005 Paris] [directions]
 
