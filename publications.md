@@ -21,7 +21,7 @@ Jump to [Publications](#peer-reviewed-publications), [Books](#books)
 {% assign year = {{pub.year}} %}
 {% endif %} 
 
-<span style="color: #c90016">■</span> {% if pub.pdf %}[**{{pub.title}}**]({{pub.pdf | prepend: "/files/" site.url}}){% else %} **{{pub.title}}** {% endif %}
+<span style="color: #c90016">■</span> {% if pub.pdf %}[**{{pub.title}}**]({{pub.pdf | prepend: "/files/" site.baseurl site.url}}){% else %} **{{pub.title}}** {% endif %}
  -- {{pub.author}} --
 {% if {{pub.type}} == "article" %} ***{{pub.journal}}***
 {% elsif {{pub.type}} == "inproceeding" or {{pub.type}} == "incollection" %} in ***{{pub.booktitle}}***, eds. *{{pub.editor}}*
