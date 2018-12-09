@@ -21,12 +21,12 @@ Jump to [Publications](#peer-reviewed-publications), [Books](#books)
 {% assign year = {{pub.year}} %}
 {% endif %} 
 
-<span style="color: #c90016">■</span> {% if pub.pdf %}[**{{pub.title}}**]({{pub.pdf | prepend: "https://harshasbhat.github.io/files/"}}){% else %} **{{pub.title}}** {% endif %}
+<span style="color: #c90016">▶︎</span> {% if pub.pdf %}[**{{pub.title}}**]({{pub.pdf}}){% else %} **{{pub.title}}** {% endif %}
  -- {{pub.author}} --
 {% if {{pub.type}} == "article" %} ***{{pub.journal}}***
 {% elsif {{pub.type}} == "inproceeding" or {{pub.type}} == "incollection" %} in ***{{pub.booktitle}}***, eds. *{{pub.editor}}*
 {% elsif {{pub.type}} == "phdthesis" %} Ph. D Thesis, **{{pub.school}}**
-{% endif %} -- ({{pub.year}}) {% if pub.doi %} -- DOI: {{pub.doi}} {% endif %}
+{% endif %} {% if pub.doi %} -- DOI: {{pub.doi}} {% endif %}
 
 {% endfor %}
 
@@ -34,9 +34,11 @@ Jump to [Publications](#peer-reviewed-publications), [Books](#books)
 ## Books
 
 {% for pub in site.data.books.publications %}
-{% if pub.pdf %}<span style="color: #c90016">■</span> [**{{pub.title}}**]({{pub.pdf | prepend: "/files/" site.url}}){% else %}**{{pub.title}}** {% endif %}
+{% if pub.pdf %}<span style="color: #c90016">■</span> [**{{pub.title}}**]({{pub.pdf}}){% else %}**{{pub.title}}** {% endif %}
  -- edited by {{pub.editor}} -- {{pub.publisher}}
  -- ({{pub.year}}) {% if pub.doi %} -- DOI: {{pub.doi}} {% endif %}
 {% endfor %}
+
+{% include new-window-fix.html %}
 
 

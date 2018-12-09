@@ -11,7 +11,10 @@ I am a solid mechanician and earthquake source physicist by training. After comp
 
 I joined [CNRS] in Jan. 2012 as a Senior Research Scientist, and began working at the [Institut de Physique du Globe de Paris (IPGP)] [6] until Apr. 2016. I work mainly at the interface between tectonics, seismology, solid mechanics and rock mechanics. 
 
-I have been recently awarded the [Prix Michel Gouilloud Schlumberger] [9] from the [Academié des Sciences] [10]. 
+I have been recently awarded the [Prix Michel Gouilloud Schlumberger] [9] from the [Academié des Sciences] [10]. You can watch the ceremony [here.] [11]
+
+{% include new-window-fix.html %}
+
 
 [LG]: http://www.geologie.ens.fr
 [ENS]: http://www.ens.fr
@@ -24,5 +27,7 @@ I have been recently awarded the [Prix Michel Gouilloud Schlumberger] [9] from t
 [6]: http://www.ipgp.fr
 [7]: http://rosakis.caltech.edu
 [8]: https://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1003669
-[9]: http://www.academie-sciences.fr/fr/Prix-en-mathematique-physique-mecanique-informatique-et-sciences-de-la-Terre-et-de-l-univers/prix-michel-gouilloud-schlumberger.html
+[9]: http://www.academie-sciences.fr/fr/Laureats/laureat-2018-du-prix-michel-gouilloud-schlumberger-harsha-suresh-bhat.html
 [10]: http://www.academie-sciences.fr/fr/
+[11]: https://www.youtube.com/watch?v=OVaenZ39o_c&t=2s&frags=pl%2Cwn
+

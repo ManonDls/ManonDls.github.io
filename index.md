@@ -17,6 +17,8 @@ You can reach me at [Laboratoire de Géologie, 24 Rue Lhomond, 75005 Paris] [dir
 
 More info: [CV], [Google Scholar], [Short Biography] [BIO], [ORCID]
 
+{% include new-window-fix.html %}
+
 [BIO]: /bio/
 [CV]: https://www.dropbox.com/s/ki67xswqsql0uky/CurriculumVitae.pdf?dl=0
 [directions]: files/directions.pdf

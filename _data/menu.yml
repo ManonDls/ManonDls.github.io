@@ -1,15 +1,15 @@
-- title: "Research"
-  href: "/research/"
-
+#- title: "Research"
+#  href: "/research/"
+#
 - title: "Publications"
   href: "/publications/"
-
-- title: "Group"
-  href: "/group/"
-
-- title: "News"
-  href: "/news/"
-
+#
+#- title: "Group"
+#  href: "/group/"
+#
+#- title: "News"
+#  href: "/news/"
+#
 #- title: "Misc."
 #  href: "/misc/"
 #
