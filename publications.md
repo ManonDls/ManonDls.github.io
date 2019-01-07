@@ -26,7 +26,7 @@ Jump to [Publications](#peer-reviewed-publications), [Books](#books)
 {% if {{pub.type}} == "article" %} ***{{pub.journal}}***
 {% elsif {{pub.type}} == "inproceeding" or {{pub.type}} == "incollection" %} in ***{{pub.booktitle}}***, eds. *{{pub.editor}}*
 {% elsif {{pub.type}} == "phdthesis" %} Ph. D Thesis, **{{pub.school}}**
-{% endif %} {% if pub.doi %} -- DOI: {{pub.doi}} {% endif %}
+{% endif %} {% if pub.doi %} -- DOI: {{pub.doi}} {% endif %}{% if pub.arxiv %} -- *{{pub.arxiv}}* {% endif %}
 
 {% endfor %}
 
