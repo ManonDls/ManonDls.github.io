@@ -47,12 +47,12 @@ publications:
       publisher:
       editor:
       school:
-      arxiv: 
+      arxiv:
     - title:     "Acoustic study of high-frequency radiation release during experimental earthquakes"
       author:    S. Marty, F. X. Passelègue, J. Aubry, A. Schubnel, H. S. Bhat and R. Madariaga
       year:    2019
       journal:    subm. Geophys. Res. Lett.
-      pdf:    http://arxiv.org/abs/1901.01219
+      pdf:    https://arxiv.org/pdf/1901.01219.pdf
       doi:
       pubnum:     34
       type:           article
