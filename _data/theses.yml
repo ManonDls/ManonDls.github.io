@@ -1,0 +1,25 @@
+publications:
+    - title:     "Fast algorithms to model quasi-dynamic earthquake cycles in complex fault networks"
+      author:     Romanet, Pierre
+      year:    2017
+      journal:
+      pdf:     https://www.dropbox.com/s/8jdb5p1epo5dv6o/Romanet2017a.pdf?dl=0
+      doi:
+      pubnum:
+      type:        phdthesis
+      booktitle:
+      publisher:
+      editor:
+      school:   Institut de Physique du Globe de Paris
+    - title:     "Dynamic earthquake ruptures on multiscale fault and fracture networks"
+      author:
+      year:    2018
+      journal:
+      pdf:     https://www.dropbox.com/s/9dip8bxom7t3p4t/Okubo2018a.pdf?dl=0
+      doi:
+      pubnum:
+      type:           phdthesis
+      booktitle:
+      publisher:
+      editor:
+      school: Institut de Physique du Globe de Paris

@@ -4,7 +4,7 @@ permalink: /publications/
 title: 
 ---
 
-Jump to [Publications](#peer-reviewed-publications), [Books](#books)
+Jump to [Publications](#peer-reviewed-publications), [Books](#books), [PhD Theses](#theses)
 
 ---
 
@@ -39,6 +39,13 @@ Jump to [Publications](#peer-reviewed-publications), [Books](#books)
  -- ({{pub.year}}) {% if pub.doi %} -- DOI: {{pub.doi}} {% endif %}
 {% endfor %}
 
+
+---
+## Theses
+
+{% for pub in site.data.theses.publications %}
+{% if pub.pdf %}<span style="color: #c90016">■</span> [**{{pub.title}}**]({{pub.pdf}}){% else %}**{{pub.title}}** {% endif %}
+ -- PhD thesis, **{{pub.school}}** -- ({{pub.year}})
+{% endfor %}
+
 {% include new-window-fix.html %}
-
-
