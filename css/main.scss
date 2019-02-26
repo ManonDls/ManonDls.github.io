@@ -23,7 +23,7 @@ $grey-light: #ccc;
 $grey:       #666;
 $grey-dark:  #444;
 $grey-vdark: #111;
-$blue:       #0091ed;
+$blue:       #0000ff;
 $orange:     #ca6c18;
 $red:        #b6321c;
 $harvard:    #c90016;
@@ -63,3 +63,25 @@ $desktop:          50em;
     "syntax-highlighting",
     "fancy-image"
 ;
+
+.hClass{
+    height: 90px;
+    width: 200px;
+    
+    overflow: hidden;
+}
+
+.hClass p{
+    padding-left: 20px;
+}
+
+.iClass{
+    font-style: oblinque;
+    color: rgb(136, 136, 136);
+	font-family: Arial,Liberation Sans,DejaVu Sans,sans-serif;
+    margin-left: -20px;
+}
+
+.mClass{
+    white-space: normal;
+}
