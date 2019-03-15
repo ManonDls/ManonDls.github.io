@@ -51,16 +51,16 @@ publications:
     - title:     "Acoustic study of high-frequency radiation release during experimental earthquakes"
       author:    S. Marty, F. X. Passelègue, J. Aubry, A. Schubnel, H. S. Bhat and R. Madariaga
       year:    2019
-      journal:    subm. Geophys. Res. Lett.
+      journal:    Geophys. Res. Lett.
       pdf:    https://arxiv.org/pdf/1901.01219.pdf
-      doi:
+      doi:    	10.1029/2018GL080519
       pubnum:     34
       type:           article
       booktitle:
       publisher:
       editor:
       school:
-      arxiv: 	arXiv:1901.01219 [physics.geo-ph]
+      arxiv: 	arXiv:1901.01219v2 [physics.geo-ph]
     - title:     "Frictional heating processes and energy budget during laboratory earthquakes"
       author:    J. Aubry, F. X. Passelègue, D. Deldicque, F. Girault, S. Marty, A. Lahfid, H. S. Bhat, J. Escartin and A. Schubnel
       year:    2018
