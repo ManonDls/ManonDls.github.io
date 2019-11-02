@@ -1,8 +1,21 @@
 publications:
+    - title:     "Supershear Tsunamis: Insights from the Mw 7.5 Palu Earthquake"
+      author:    F. Amlani, H. S. Bhat, W. J. F. Simons, A. Schubnel, C. Vigny, A. J. Rosakis, J. Efendi, A. Elbanna, H. Z. Abidin 
+      year:    2019
+      journal:    submitted
+      pdf: https://arxiv.org/pdf/1910.14547
+      doi:
+      pubnum:     37
+      type:           article
+      booktitle:
+      publisher:
+      editor:
+      school:
+      arxiv: 	arXiv:1910.14547 [physics.geo-ph]
     - title:     "Signature of supershear transition seen in damage and aftershock pattern"
       author:    J. Jara, L. Bruhat, S. Antoine, K. Okubo, M. Y. Thomas, E. Rougier, A. J. Rosakis, C. G. Sammis, Y. Klinger, R. Jolivet, H. S. Bhat
       year:    2019
-      journal:    subm. to Science
+      journal:    submitted
       pdf: https://arxiv.org/pdf/1909.12672
       doi:
       pubnum:     36
