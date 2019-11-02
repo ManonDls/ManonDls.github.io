@@ -5,6 +5,19 @@ publications:
       journal:    to be submitted to Bull. Seis. Soc. Am. 
       pdf: 
       doi:
+      pubnum:     40
+      type:           article
+      booktitle:
+      publisher:
+      editor:
+      school:
+      arxiv: 	
+    - title:     "Modeling earthquakes with off-fault damage using the combined finite discrete element method"
+      author:    K. Okubo, E. Rougier, Z. Lei, H. S. Bhat   
+      year:    2019
+      journal:    to be submitted to J. Comp. Part. Mech.
+      pdf: 
+      doi:
       pubnum:     39
       type:           article
       booktitle:
