@@ -15,8 +15,8 @@ publications:
     - title:     "Modeling earthquakes with off-fault damage using the combined finite discrete element method"
       author:    K. Okubo, E. Rougier, Z. Lei, H. S. Bhat   
       year:    2019
-      journal:    to be submitted to J. Comp. Part. Mech.
-      pdf: 
+      journal:    submitted to J. Comp. Part. Mech.
+      pdf:   https://arxiv.org/pdf/1911.03468
       doi:
       pubnum:     39
       type:           article
@@ -24,7 +24,7 @@ publications:
       publisher:
       editor:
       school:
-      arxiv: 	
+      arxiv: 	arXiv:1911.03468 [physics.geo-ph]
     - title:     "Interseismic loading of subduction megathrust drives long term uplift in northern Chile"
       author:    R. Jolivet, M. Simons, Z. Duputel, J.-A. Olive, H. S. Bhat, Q. Bletery
       year:    2019
