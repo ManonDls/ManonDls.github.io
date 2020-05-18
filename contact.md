@@ -6,7 +6,9 @@ published: true
 ---
 
 {:.centery}
-![]({{site.baseurl}}/images/BHATContact.png)
+
+e-mail : manon.dalaison@ens.fr
+address : 24 rue Lhomond 75005 Paris FRANCE
 
 {% include new-window-fix.html %}
 

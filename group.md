@@ -2,7 +2,7 @@
 layout: page
 permalink: /group/
 title: null
-published: true
+published: false
 ---
 Jump to [Current Members](#current-members), [Past Members](#past-members)
 

@@ -1,19 +1,20 @@
-title: Harsha S. Bhat
-description: Harsha S. Bhat's webpage
+title: Manon Dalaison
+description: Manon Dalaison's webpage
 sourcecode: https://github.com/gchauras/www
-permalink: blog/:year/:month/:day/:title
-exclude: ["Makefile", "README.md"]
 
-url: ""    # the base hostname & protocol for your site
-baseurl: ""                  # the subpath of your site, e.g. /blog
-# url: "localhost"             # for local testing
+permalink: blog/:year/:month/:day/:title
+#exclude: ["Makefile", "README.md"]
+
+url: ""                         # the base hostname & protocol for your site
+baseurl: ""                     # the subpath of your site, e.g. /blog
+# url: "localhost"              # for local testing
 # baseurl: ""
 
 author:
-    name: Harsha S. Bhat
-    scholar: ZHskR34AAAAJ
+    name: Manon Dalaison
+    #facebook: gchauras
+    #scholar: pBaL_DgAAAAJ
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
-

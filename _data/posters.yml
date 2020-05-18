@@ -1,0 +1,36 @@
+publications:
+    - title:     "Continuous Monitoring of Seismic and Aseismic Slip along the Chaman Fault System from InSAR"
+      author:    Dalaison, M., Jolivet, R. and Benoit, A. 
+      year:    2019
+      conference:  AGU Fall meeting
+      location:    San Francisco, USA
+      pdf:     
+      doi: 
+    - title:     "A Kalman Filter time series analysis tool for InSAR"
+      author:     Dalaison, M. and Jolivet, R.
+      year:    2019
+      conference:  MDIS: Mesure de la Déformation par Imagerie Satellitaire
+      location:    Strasbourg and La Petite-Pierre, France
+      pdf:        https://eost.unistra.fr/fileadmin/upload/EOST/MDIS_presentation/MDIS2019_Dalaison.png
+      doi:   
+    - title:     "A Kalman Filter approach of InSAR time series analysis"
+      author:     Dalaison, M., Jolivet, R. and Benoit, A.
+      year:    2018
+      conference:  AGU Fall meeting
+      location:    Washington DC, USA
+      pdf:
+      doi: 
+    - title:     "Present-day Opening of the Natron Rift: Tectonic and Magmatic Processes at Work"
+      author:     Dalaison, M., Elifuraha, S., Calais, E., Doubre, C., Masson, F.
+      year:    2017
+      conference:  AGU Fall meeting
+      location:    New Orleans, USA
+      pdf:
+      doi:  
+    - title:     "Small-scale Convection under Oceanic Lithosphere"
+      author:     Dalaison, M., Davies, R.
+      year:    2016
+      conference:  ASEF-PESA-AIG
+      location:    Adelaide, Australia
+      pdf:   https://www.publish.csiro.au/ex/pdf/ASEG2016ab258
+      doi:  10.1071/ASEG2016ab258
