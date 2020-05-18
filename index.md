@@ -5,7 +5,7 @@ permalink: /
 published: true
 ---
 
-{% include image.html url="images/photoprofile.JPG" caption="" height="200px" align="left" %}
+{% include image.html url="images/photoprofile.JPG" caption="" height="260px" align="left" %}
 
 
 I am a phD student working at the [Laboratoire de Géologie] [LG] in [Ecole Normale Supérieure] [ENS].

@@ -38,7 +38,7 @@ Jump to [Publications](#peer-reviewed-publications), [Conference Posters](#confe
 {: style="color:grey; font-size: 120%; font-weight: bold; text-align: center;"}
 ---
 {% for pub in site.data.posters.publications %}
-{% if pub.pdf %}<span style="color: #c90016">▶︎</span> [**{{pub.title}}**]({{pub.pdf}}){% else %}**{{pub.title}}**{% endif %}
+<span style="color: #c90016">▶︎</span> {% if pub.pdf %}[**{{pub.title}}**]({{pub.pdf}}){% else %}**{{pub.title}}**{% endif %}
  <br>{{pub.author}}<br>
  <span style="text-decoration:underline">***{{pub.conference}}***</span> {{pub.year}}, {{pub.location}}
 {% endfor %}
