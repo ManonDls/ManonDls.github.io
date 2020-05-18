@@ -9,7 +9,7 @@ publications:
     - title:     "A Kalman Filter time series analysis tool for InSAR"
       author:     Dalaison, M. and Jolivet, R.
       year:    2019
-      conference:  MDIS: Mesure de la Deformation par Imagerie Satellitaire
+      conference:  MDIS- Mesure de la Deformation par Imagerie Satellitaire
       location:    Strasbourg and La Petite-Pierre, France
       pdf:        https://eost.unistra.fr/fileadmin/upload/EOST/MDIS_presentation/MDIS2019_Dalaison.png
       doi:   
