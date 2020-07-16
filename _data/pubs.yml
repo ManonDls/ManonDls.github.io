@@ -1,12 +1,13 @@
 publications:
     - title:     "A Kalman Filter Time Series Analysis method for InSAR"
       author:    M. Dalaison, R. Jolivet
-      year:    2020
-      journal:    under review in J. Geophys. Res.
-      pdf:
-      doi:
-      pubnum:     1
+      year:       2020
+      journal:     Journal of Geophysical Research - Solid Earth
+      pdf:         http://www.geologie.ens.fr/~jolivet//Publications_files/PDFs/2020_Dalaison_JGR.pdf
+      doi:         10.1029/2019JB019150
+      pubnum:         1
       type:           article
+      supmat:      http://www.geologie.ens.fr/~jolivet//Publications_files/PDFs/2020_Dalaison_JGR_suppmat.pdf
       booktitle:
       publisher:
       editor:

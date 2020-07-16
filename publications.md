@@ -29,6 +29,7 @@ Jump to [Publications](#peer-reviewed-publications), [Conference Posters](#confe
 {% elsif {{pub.type}} == "inproceeding" or {{pub.type}} == "incollection" %} in ***{{pub.booktitle}}***, eds. *{{pub.editor}}*
 {% elsif {{pub.type}} == "phdthesis" %}**{{pub.school}}**, Ph. D Thesis
 {% endif %} {% if pub.doi %} doi: *{{pub.doi}}* {% endif %}{% if pub.arxiv %} *{{pub.arxiv}}* {% endif %}({{pub.year}})
+{% if pub.supmat %}[sup mat]({{pub.supmat}}){% endif %}
 <br><br>
 {% endfor %}
 
