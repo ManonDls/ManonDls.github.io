@@ -2,21 +2,22 @@
 layout: page
 title: 
 permalink: /research/
-published: true
 ---
 
-{% include image.html url="images/KF_schema.jpg" caption="Kalman Filter Time Series analysis for InSAR" height="260px" align="left" %}
+{% include image.html url="images/kftsschematic.JPG" caption="Kalman Filter Time Series analysis for InSAR" height="300px" align="left" %}
 
-## Codes
+### Codes
 
 **KFTS**
+
 Time series analysis for Interferometric Synthetic Aperture Radar (InSAR) with a data assimilation approach. 
 The algorithm is based on a Kalman smoother and designed for tectonic applications. 
 [Source code][KFsource] and [documentation][KFdoc]
 
-## Field
+### Field
 
 **Natron 2017 GPS fiels campaign**
+
 With Pr Eric Calais. [Photos][Natron] 
 
 
