@@ -4,7 +4,7 @@ title:
 permalink: /research/
 ---
 
-{% include image.html url="images/kftsschematic.JPG" caption="Kalman Filter Time Series analysis for InSAR" height="300px" align="left" %}
+{% include image.html url="../images/kftsschematic.JPG" caption="Kalman Filter Time Series analysis for InSAR" height="300px" align="left" %}
 
 ### Codes
 
