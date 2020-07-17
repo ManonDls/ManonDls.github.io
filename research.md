@@ -4,7 +4,7 @@ title:
 permalink: /research/
 ---
 
-{% include image.html url="../images/kftsschematic.JPG" caption="Kalman Filter Time Series analysis for InSAR" height="300px" align="left" %}
+{% include image.html url="../images/kftsschematic.JPG" caption="Kalman Filter Time Series analysis for InSAR" height="500px" align="right" %}
 
 ### Codes
 
@@ -16,9 +16,9 @@ The algorithm is based on a Kalman smoother and designed for tectonic applicatio
 
 ### Field
 
-**Natron 2017 GPS fiels campaign**
+**Natron 2017 GPS field campaign**
 
-With Pr Eric Calais. [Photos][Natron] 
+With Pr Eric Calais and Dr Elifuraha Saria. [Photos][Natron] 
 
 
 
