@@ -28,7 +28,7 @@ $orange:     #ca6c18;
 $red:        #b6321c;
 $violet:    #D02090;
 $white:		#FFFFFF;
-$ivory:      #FFFFF0;
+$ivory:      #F8F8FF;
 $black:     #000;
 
 $background:        $ivory;
@@ -43,10 +43,10 @@ $header-hover-url:  $violet;
 $line-color:        $grey-light;
 
 // Width of the content area
-$content-width:    60em;
+$content-width:    55em;
 $content-min-width:15em;
 $mobile:           32em;
-$desktop:          60em;
+$desktop:          55em;
 
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
