@@ -3,7 +3,7 @@
 ---
 @charset "utf-8";
 
-$font-weight-normal: 350;
+$font-weight-normal: 300;
 $font-weight-bold:   600;
 
 $base-font-family: "Source Code Pro Regular", "Lato", -apple-system, "San Francisco", "Helvetica Neue", Helvetica, Roboto, "Segoe UI", "Segoe WP", Arial, Ubuntu, sans-serif;
@@ -11,7 +11,7 @@ $base-font-size:   13pt;
 $base-line-height: 1.25;
 
 $heading-font-family: $base-font-family;
-$heading-font-size:   15pt;
+$heading-font-size:   16pt;
 $heading-line-height: 1.5;
 
 $small-font-size:  0.875em;
@@ -23,29 +23,30 @@ $grey-light: #ccc;
 $grey:       #666;
 $grey-dark:  #444;
 $grey-vdark: #111;
-$blue:       #0000ff;
+$blue:       #4876FF;
 $orange:     #ca6c18;
 $red:        #b6321c;
-$harvard:    #c90016;
+$violet:    #D02090;
 $white:		#FFFFFF;
+$ivory:      #FFFFF0;
 $black:     #000;
 
-$background:        $white;
-$dark-background:   darken($background, 5%);
+$background:        $ivory;
+$dark-background:   darken($background, 2%);
 $text-color:        $black;
 $text-light-color:  $grey;
 $url-color:         $blue;
-$url-hover-color:   $harvard;
+$url-hover-color:   $violet;
 $header-text-color: $grey-vdark;
-$header-hover-color:$harvard;
-$header-hover-url:  $harvard;
+$header-hover-color:$violet;
+$header-hover-url:  $violet;
 $line-color:        $grey-light;
 
 // Width of the content area
-$content-width:    50em;
+$content-width:    60em;
 $content-min-width:15em;
 $mobile:           32em;
-$desktop:          50em;
+$desktop:          60em;
 
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
