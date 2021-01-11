@@ -6,6 +6,13 @@ publications:
       location:    Online
       pdf:
       doi:
+    - title:     "A deep Learning approach for detecting transient deformation in InSAR"
+      author:    Rouet-Leduc, B., Jolivet, R., Dalaison, M., Johnson, P. A., Hulbert, C.
+      year:    2020
+      conference:  AGU Fall meeting
+      location:    Online
+      pdf:
+      doi:
     - title:     "Continuous Monitoring of Seismic and Aseismic Slip along the Chaman Fault System from InSAR"
       author:    Dalaison, M., Jolivet, R. and Benoit, A. 
       year:    2019

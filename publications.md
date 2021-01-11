@@ -19,7 +19,7 @@ Jump to [Publications](#peer-reviewed-publications), [Conference Posters](#confe
 ---
 {{pub.year}}
 {: style="color:grey; font-size: 120%; font-weight: bold; text-align: left;"}
----
+
 {% assign year = {{pub.year}} %}
 {% endif %} 
 
@@ -35,7 +35,7 @@ Jump to [Publications](#peer-reviewed-publications), [Conference Posters](#confe
 
 ---
 <br><br><br>
-## Conference Posters
+## Conference Poster & Oral
 {: style="color:grey; font-size: 120%; font-weight: bold; text-align: center;"}
 ---
 {% for pub in site.data.posters.publications %}
