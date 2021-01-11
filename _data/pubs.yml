@@ -3,7 +3,7 @@ publications:
       author:    M. Dalaison, R. Jolivet
       year:       2020
       journal:     Journal of Geophysical Research - Solid Earth
-      pdf:         http://www.geologie.ens.fr/~jolivet//Publications_files/PDFs/2020_Dalaison_JGR.pdf
+      pdf:         files/Dalaison_Jolivet_KFTS_2020.pdf
       doi:         10.1029/2019JB019150
       pubnum:         1
       type:           article
@@ -13,3 +13,17 @@ publications:
       editor:
       school:
       arxiv:
+    - title:     "Autonomous Extraction of Millimeter-scale Deformation in InSAR Time Series Using Deep Learning"
+      author:    B. Rouet-Leduc, R. Jolivet, M. Dalaison, P. A. Johnson, C. Hulbert
+      year:       2021
+      journal:     Submitted
+      pdf:         
+      doi:         
+      pubnum:         2
+      type:           article
+      supmat:      
+      booktitle:
+      publisher:
+      editor:
+      school:
+      arxiv:    https://arxiv.org/abs/2012.13849
