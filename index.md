@@ -4,13 +4,8 @@ title: null
 permalink: /
 published: true
 ---
-{% include image.html url="images/interfero-T42-20160611-20160915.png" caption="Interferogram with Sentinel 1AB images" height="100px" align="center" %}
 
----
-
-{% include image.html url="images/photoprofile.JPG" caption="" height="180px" align="left" %}
-
-**Welcome to my Website !**
+{% include image.html url="images/photoprofile.JPG" caption="" height="190px" align="left" %}
 
 
 I am a PhD student in Geophysics under the supervision of Dr. [Romain Jolivet] [ROMAIN]
