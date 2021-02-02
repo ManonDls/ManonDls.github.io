@@ -12,9 +12,9 @@ permalink: /research/
 
 Time series analysis for Interferometric Synthetic Aperture Radar (InSAR) with a data assimilation approach. 
 The algorithm is based on a Kalman smoother and designed for tectonic applications. 
-[Source code][KFsource] and [documentation][KFdoc]
+The [source code][KFsource] is freely available and regularly updated ([documentation][KFdoc])
 
-### Field
+### Field work 
 
 **Natron 2017 GPS field campaign**
 
