@@ -5,6 +5,8 @@ permalink: /
 published: true
 ---
 
+** **
+
 {% include image.html url="images/photoprofile.JPG" caption="" height="190px" align="left" %}
 
 
