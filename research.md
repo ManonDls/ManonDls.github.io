@@ -4,7 +4,6 @@ title:
 permalink: /research/
 ---
 
-<!--{% include image.html url="../images/kftsschematic.JPG" caption="Kalman Filter Time Series analysis for InSAR" height="500px" align="right" %}-->
 
 <div class="pubs">
   <div class="articles">
@@ -15,13 +14,15 @@ permalink: /research/
    </div>
  
   </div>
+  
   <div class="articles">
 
-    <b> Kalman Filter Time Series Analysis (KFTS) </b>
-
-    Time series analysis for Interferometric Synthetic Aperture Radar (InSAR) with a data assimilation approach. 
+    <h1> Kalman Filter Time Series Analysis for InSAR (KFTS) </h1>
+    
+ <p >Tool to retrieve phase delays from interferograms (Interferometric Synthetic Aperture Radar (InSAR) images) with a data assimilation approach. 
 The algorithm is based on a Kalman smoother and designed for tectonic applications. 
-The [source code][KFsource] is freely available and regularly updated ([documentation][KFdoc]).
+The <a href="https://github.com/ManonDls/KFTS-InSAR">source code</a> is freely available and 
+regularly updated (see <a href="https://manondls.github.io/KFTS-InSAR/">documentation]</a>. </p> 
    
   </div>
 </div>
@@ -35,6 +36,4 @@ With Pr Eric Calais and Dr Elifuraha Saria. [Photos][Natron]
 
 {% include new-window-fix.html %}
 
-[KFsource]: https://github.com/ManonDls/KFTS-InSAR
-[KFdoc]: https://manondls.github.io/KFTS-InSAR/
 [Natron]:http://www.geologie.ens.fr/~ecalais/research/natron-2017-gps-field-campa/
