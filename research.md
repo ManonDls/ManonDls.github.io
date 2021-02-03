@@ -4,15 +4,20 @@ title:
 permalink: /research/
 ---
 
-{% include image.html url="../images/kftsschematic.JPG" caption="Kalman Filter Time Series analysis for InSAR" height="500px" align="right" %}
-
-### Codes
+<div class="pubs">
+   <div class="articles">
+      {% include image.html url="../images/kftsschematic.JPG" caption="Kalman Filter Time Series analysis for InSAR" height="500px" align="right" %}
+   </div>
+   <div class="articles">
 
 **KFTS**
 
 Time series analysis for Interferometric Synthetic Aperture Radar (InSAR) with a data assimilation approach. 
 The algorithm is based on a Kalman smoother and designed for tectonic applications. 
 The [source code][KFsource] is freely available and regularly updated ([documentation][KFdoc]).
+   
+   </div>
+</div>
 
 ### Field work 
 

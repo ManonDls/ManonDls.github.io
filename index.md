@@ -6,10 +6,10 @@ published: true
 ---
 
 ---
+<br>
 
-<div>
- {% include image.html url="images/photoprofile.JPG" caption="" height="190px" align="left" %}
-</div>
+{% include image.html url="images/photoprofile.JPG" caption="" height="190px" align="left" %}
+
 
 I am a PhD student in Geophysics under the supervision of Dr. [Romain Jolivet] [ROMAIN]
 at the [Laboratoire de Géologie] [LG] in [Ecole Normale Supérieure] [ENS].

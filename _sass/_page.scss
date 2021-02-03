@@ -59,3 +59,25 @@
   column-count: 2;
   column-gap: 2em;
 }
+
+.pubs {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  grid-row-gap: 10px;
+  grid-column-gap: 0px;
+  padding:2px;
+  margin-top:10px;
+}
+
+.articles {
+  margin: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  align-self: top;
+  background-color: $white; //lighten($grey-light,16%);
+  border-radius: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-even;
+  align-items: space-even;
+ }
