@@ -84,13 +84,13 @@
 .articles:nth-child(even) {
   background-color: $dark-background;
   align-items: stretch;
+  border-left: 2px solid $violet;
   padding-left: 20px;
   padding-top: 10px;
   padding-bottom: 10px;
 }
 
 .articles:nth-child(odd) {
-  border-right: 1px solid $violet;
   background-color: $background;
 }
 

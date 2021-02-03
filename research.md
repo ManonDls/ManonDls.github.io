@@ -15,7 +15,7 @@ permalink: /research/
   </div>
   <div class="articles">
 
-    <h2> Kalman Filter Time Series Analysis for InSAR (KFTS) </h2>
+    <b> Kalman Filter Time Series Analysis for InSAR (KFTS) </b>
     
  <p >Tool to retrieve phase delays from interferograms (Interferometric Synthetic Aperture Radar (InSAR) images) with a data assimilation approach. 
 The algorithm is based on a Kalman smoother and designed for tectonic applications. 
@@ -36,7 +36,7 @@ regularly updated (see <a href="https://manondls.github.io/KFTS-InSAR/">document
   </div>
   <div class="articles">
 
-    <h2> 2017 GPS field campaign near lake Natron (Tanzania) </h2>
+    <b> 2017 GPS field campaign near lake Natron (Tanzania) </b>
 
  <p > Measurement of GPS campaign stations to quantify the divergence across this segment of the East African rift system.
 With Pr Eric Calais and Dr Elifuraha Saria.
