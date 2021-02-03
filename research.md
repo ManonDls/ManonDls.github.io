@@ -35,9 +35,9 @@ regularly updated (see <a href="https://manondls.github.io/KFTS-InSAR/">document
   </div>
   <div class="articles">
 
-    <p style="color:grey"><b>Observing small earthquakes (Afghanistan,Pakistan) </b></p>
+    <p style="color:grey"><b>Observing small earthquakes (Afghanistan, Pakistan) </b></p>
     
- <p > An example of the high-resolution map of displacement that we obtained for 
+ <p > An example of high-resolution maps of displacement that we obtained with InSAR for 
 a set of moderate magnitude earthquakes (Mw ~5) along the Chaman fault. </p>
 
   </div>
