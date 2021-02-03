@@ -11,29 +11,41 @@ permalink: /research/
     <a href="../images/kftsschematic.JPG">
     <img src="../images/kftsschematic.JPG" /> </a>
     Kalman Filter Time Series analysis for InSAR
-   </div>
- 
+   </div> 
   </div>
-  
   <div class="articles">
 
-    <h1> Kalman Filter Time Series Analysis for InSAR (KFTS) </h1>
+    <h2> Kalman Filter Time Series Analysis for InSAR (KFTS) </h2>
     
  <p >Tool to retrieve phase delays from interferograms (Interferometric Synthetic Aperture Radar (InSAR) images) with a data assimilation approach. 
 The algorithm is based on a Kalman smoother and designed for tectonic applications. 
 The <a href="https://github.com/ManonDls/KFTS-InSAR">source code</a> is freely available and 
-regularly updated (see <a href="https://manondls.github.io/KFTS-InSAR/">documentation]</a>. </p> 
+regularly updated (see <a href="https://manondls.github.io/KFTS-InSAR/">documentation</a>). </p> 
    
   </div>
 </div>
 
-### Field work 
 
-**Natron 2017 GPS field campaign**
 
-With Pr Eric Calais and Dr Elifuraha Saria. [Photos][Natron] 
+<div class="pubs">
+  <div class="articles">
+   <div class="captioned-img align=right">
+    <img src="../images/stationENGA.JPG" />
+    GPS antenna at station ENGA 
+   </div>
+  </div>
+  <div class="articles">
 
+    <h2> 2017 GPS field campaign near lake Natron (Tanzania) </h2>
+
+ <p > Measurement of GPS campaign stations to quantify the divergence across this segment of the East African rift system.
+With Pr Eric Calais and Dr Elifuraha Saria.
+More <a href="http://www.geologie.ens.fr/~ecalais/research/natron-2017-gps-field-campa/">photos</a>. </p>
+  
+  </div>
+</div>
+
+ 
 
 {% include new-window-fix.html %}
 
-[Natron]:http://www.geologie.ens.fr/~ecalais/research/natron-2017-gps-field-campa/
